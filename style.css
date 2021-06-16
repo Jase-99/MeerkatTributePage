@@ -1,0 +1,10 @@
+html {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    background-color: rgb(68, 68, 68);
+    color: rgb(226, 223, 223);
+}
+
+h1, h2 {
+    font-family: "Pragati Narrow", serif;
+}
