@@ -8,3 +8,13 @@ html {
 h1, h2 {
     font-family: "Pragati Narrow", serif;
 }
+
+.info-item {
+    background-color: rgb(92, 91, 91);
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
