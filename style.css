@@ -9,12 +9,71 @@ h1, h2 {
     font-family: "Pragati Narrow", serif;
 }
 
-.info-item {
-    background-color: rgb(92, 91, 91);
-    padding: 20px;
+h2 {
     text-align: center;
+}
+
+.links, a {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(226, 223, 223) !important;
+    font-style: normal;
+}
+
+#tribute-info {
+    background-color: rgb(92, 91, 91);
+    width: 60em;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-left-style: solid;
+    border-color: whitesmoke;
+    border-width: 5px;
 }
 
 footer {
     text-align: center;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    border-radius: 20px;
+}
+
+figcaption {
+  background-color: rgb(92, 91, 91);
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(92, 91, 91);
+    padding: 10px;
+}
+
+#ReadMore {
+    background-color: rgb(92, 91, 91);
+    width: 25em;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+#tribute-link {
+    font-size: 25px;
 }
